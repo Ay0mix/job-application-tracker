@@ -14,4 +14,3 @@ Open `index.html` in a browser. Works offline, no server needed. Built with HTML
 - CSV export/import. Works with files opened and saved in Excel, and with descriptions that have commas or line breaks. Import lets you replace or add to your list.
 - Responsive desktop/mobile layout
 
-Tip: export a CSV now and then as a backup. Clearing your browser data deletes the saved list.
