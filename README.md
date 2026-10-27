@@ -1,3 +1,4 @@
+<img width="1327" height="1032" alt="image" src="https://github.com/user-attachments/assets/637d65ac-0de4-4004-a19e-bc47139978b8" />
 # Job Application Tracker
 
 Open `index.html` in a browser. Works offline, no server needed. Built with HTML, CSS and JavaScript.
